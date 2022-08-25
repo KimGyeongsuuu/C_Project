@@ -1,0 +1,26 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(CProgramProject.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  function.c
+C:\Users\USER\source\repos\CProgramProject\CProgramProject\function.c(228,11): warning C4101: 'Password' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\source\repos\CProgramProject\CProgramProject\function.c(228,7): warning C4101: 'ID' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\source\repos\CProgramProject\CProgramProject\function.c(549,7): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\source\repos\CProgramProject\CProgramProject\function.c(795,13): warning C4098: 'Music_Setting': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\source\repos\CProgramProject\CProgramProject\function.c(833,20): warning C4098: 'Music_Setting': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\source\repos\CProgramProject\CProgramProject\function.c(2176,19): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\USER\source\repos\CProgramProject\CProgramProject\function.c(2273,31): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\USER\source\repos\CProgramProject\CProgramProject\function.c(2311,23): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\USER\source\repos\CProgramProject\CProgramProject\function.c(2418,22): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\USER\source\repos\CProgramProject\CProgramProject\function.c(2116,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\source\repos\CProgramProject\CProgramProject\function.c(2134,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\source\repos\CProgramProject\CProgramProject\function.c(2151,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\source\repos\CProgramProject\CProgramProject\function.c(2168,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\source\repos\CProgramProject\CProgramProject\function.c(2361,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\source\repos\CProgramProject\CProgramProject\function.c(2378,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\source\repos\CProgramProject\CProgramProject\function.c(2395,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\source\repos\CProgramProject\CProgramProject\function.c(2412,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\source\repos\CProgramProject\CProgramProject\function.c(2092,7): warning C4101: 'START_TIME' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\source\repos\CProgramProject\CProgramProject\function.c(108): warning C4716: 'Thread_B': 값을 반환해야 합니다.
+C:\Users\USER\source\repos\CProgramProject\CProgramProject\function.c(1001): warning C4716: 'English_Selected': 값을 반환해야 합니다.
+C:\Users\USER\source\repos\CProgramProject\CProgramProject\function.c(1938): warning C4716: 'English_LongText': 값을 반환해야 합니다.
+C:\Users\USER\source\repos\CProgramProject\CProgramProject\function.c(2460): warning C4715: 'GameRule': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\USER\source\repos\CProgramProject\CProgramProject\function.c(2432): warning C4715: 'ShortText': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  CProgramProject.vcxproj -> C:\Users\USER\source\repos\CProgramProject\x64\Debug\타자연습PROJECT.exe
